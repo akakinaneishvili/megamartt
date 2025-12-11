@@ -1,1 +1,11 @@
+@import "tailwindcss";
 
+@theme{
+
+    --color-lurgi:#212844;
+    --color-cisperi:#008ECC;
+    --color-mwvane:#249B3E;
+
+
+
+}
